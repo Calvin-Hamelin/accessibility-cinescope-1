@@ -1,5 +1,7 @@
 # Here starts the journey with Cinescope
 
+**Duo :** Calvin Hamelin & Lucas Bonnet
+
 ## First install your project
 - you can copy the repo locally using `git clone`
 - go to the root of the directory and run `npm i`
